@@ -2,7 +2,7 @@
 
 namespace KattisProblems
 {
-    /*Output should contain one line, containing the string “Hello World!”*/
+    /* Output should contain one line, containing the string “Hello World!” */
 
     class Hello_World
     {
